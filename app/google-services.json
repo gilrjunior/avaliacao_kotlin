@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "514995982606",
+    "project_id": "provafinalpdm-a5de1",
+    "storage_bucket": "provafinalpdm-a5de1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514995982606:android:9d3ee5a6e1b240e9ea475f",
+        "android_client_info": {
+          "package_name": "com.example.prova02_gilmarjr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoCiwnkIMHFHvALWPV1RUdTycrE_H4tp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
